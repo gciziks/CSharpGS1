@@ -1,0 +1,14 @@
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\obj\Debug\net8.0\GS_CSharp_Energia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\obj\Debug\net8.0\GS_CSharp_Energia.AssemblyInfoInputs.cache
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\obj\Debug\net8.0\GS_CSharp_Energia.AssemblyInfo.cs
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\obj\Debug\net8.0\GS_CSharp_Energia.csproj.CoreCompileInputs.cache
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\bin\Debug\net8.0\GS_CSharp_Energia.exe
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\bin\Debug\net8.0\GS_CSharp_Energia.deps.json
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\bin\Debug\net8.0\GS_CSharp_Energia.runtimeconfig.json
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\bin\Debug\net8.0\GS_CSharp_Energia.dll
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\bin\Debug\net8.0\GS_CSharp_Energia.pdb
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\obj\Debug\net8.0\GS_CSharp_Energia.dll
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\obj\Debug\net8.0\refint\GS_CSharp_Energia.dll
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\obj\Debug\net8.0\GS_CSharp_Energia.pdb
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\obj\Debug\net8.0\GS_CSharp_Energia.genruntimeconfig.cache
+C:\Users\bielc\source\repos\GS_CSharp_Energia\GS_CSharp_Energia\obj\Debug\net8.0\ref\GS_CSharp_Energia.dll

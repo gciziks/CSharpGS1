@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GS_CSharp_Energia/1.0.0": {
+        "runtime": {
+          "GS_CSharp_Energia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GS_CSharp_Energia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
