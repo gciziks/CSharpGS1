@@ -1,4 +1,4 @@
-# Sistema de Monitoramento de Falhas de Energia
+# Sistema de Monitoramento de Falhas de Sistemas
 
 Aplicação em console para registro e acompanhamento de falhas sistemáticas na infraestrutura de TI.
 ## Grupo
